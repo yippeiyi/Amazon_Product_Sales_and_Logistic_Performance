@@ -1,2 +1,2 @@
 # Amazon Product Sales & Logistic Performance
-Looking into Amazon sales data to produce actionable insights for potentially improving sales operations and customers' logistic shipping experiences. The programming language used for the entirety of this project is R.
+Looking into Amazon sales data to produce actionable insights for potentially improving sales operations and customers' logistic shipping experiences. The programming language used for the entirety of this project is R. To view the overall report containing insights and visuallisations regarding the sales and logistic operation data analyses, open the pdf document attached above labelled `Insights_Amazon_Sales.pdf`.
